@@ -1,0 +1,26 @@
+body {
+    background-image:url("./images/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75vh;
+    background-position: center;
+}
+
+.cardsection {
+    justify-content: center;
+    display: flex;
+    margin-top: 20%;    
+    border-radius:10px;
+    padding: 5%;
+}
+.card{
+    background-color:bisque;
+    text-align: center;
+    
+}
+.card a{
+    background-color: rgb(255, 157, 0);
+    color: aliceblue;
+    padding: 4px 8px;
+    
+}
